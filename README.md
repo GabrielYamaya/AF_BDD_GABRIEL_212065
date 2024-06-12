@@ -23,7 +23,7 @@ Inicialmente, considere um cliente que deseja alugar um carro de luxo. Se esse c
 ![image](https://github.com/GabrielYamaya/AF_BDD_GABRIEL_212065/assets/117553594/37e9e6e7-f502-4fe8-b0ae-f11c7346ec33)
 
 ### Implementação: 
-![image](https://github.com/GabrielYamaya/AF_BDD_GABRIEL_212065/assets/117553594/c9ef5ed5-47e6-4181-8f09-54f8697ef9cc)
+![image](https://github.com/GabrielYamaya/AF_BDD_GABRIEL_212065/assets/117553594/fada2603-e6db-424d-bb3d-598df2c8b5aa)
 
 ### Teste do JUnit:
 ![image](https://github.com/GabrielYamaya/AF_BDD_GABRIEL_212065/assets/117553594/f23af9fd-15a3-4881-bafb-cb7c60d33702)
